@@ -1,4 +1,4 @@
-![GitHub issues](https://img.shields.io/github/issues-raw/tibmeister/vPOSH.Crypt?style=plastic) ![GitHub](https://img.shields.io/github/license/tibmeister/vPOSH.Crypt?style=plastic)
+![GitHub issues](https://img.shields.io/github/issues-raw/tibmeister/vPOSH.Crypto?style=plastic) ![GitHub](https://img.shields.io/github/license/tibmeister/vPOSH.Crypto?style=plastic)
 
 # vPOSH.Crypto
 
