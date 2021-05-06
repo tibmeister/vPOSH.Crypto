@@ -172,3 +172,8 @@ function Test-FileHash
         Write-Host "WARNING: 1 computed checksum did NOT match" -ForegroundColor Red
     }
 }
+
+function New-RandomPassword
+{
+
+}
