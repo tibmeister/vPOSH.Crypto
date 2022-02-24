@@ -46,7 +46,7 @@ function New-SecureKey
         }
     }
 
-    [Security.Cryptography.RNGCryptoServiceProvider]::Create().GetBytes($Key)
+    [Security.Cryptography.RandomNumberGenerator]::Create().GetBytes($Key)
     [System.Convert]::ToBase64String($key) | Set-content -Path $KeyFile
 }
 
